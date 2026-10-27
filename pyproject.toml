@@ -1,6 +1,6 @@
 [project]
 name = "wavelet-tree-lib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wavelet Tree for rank, select, and range quantile queries on integer sequences."
 requires-python = ">=3.10"
 dependencies = []
